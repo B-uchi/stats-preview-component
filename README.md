@@ -7,9 +7,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-    **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+## Preview Link
+[Click here](https://b-uchi.github.io/stats-preview-component/)
 
 ### The challenge
 
